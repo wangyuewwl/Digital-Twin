@@ -60,9 +60,15 @@
 
 *Specific digital products, apps, or interfaces that meet the standard — visually subjective, functionally invisible.*
 
-| Product | Why It Matters |
-|---------|---------------|
-| *(add entries)* | |
+| Reference | Drive Folder | Why It Matters |
+|-----------|-------------|---------------|
+| **EVA (Evangelion)** | [→](https://drive.google.com/drive/folders/12EgcJLKHZtT7Yx8WUSaZmMNQzkPJkW1J) | NERV's UI is internally systematic despite looking overwhelming. Dense information, dark palette, every element tied to function. The aesthetic IS the urgency signal. |
+| **Gundam UI** | [→](https://drive.google.com/drive/folders/15VlrA_tybxvfnIlkAnoK7irU22Qrn10m) | Mecha cockpit interfaces — HUD displays, targeting systems, status layers. Built for operators under pressure. Nothing decorative, everything load-bearing. |
+| **Porsche Cockpit** | [→](https://drive.google.com/drive/folders/1zHjVipLVUTCnIxhkH3kejwtb4gQMRDCS) | The physical-digital seam at its best. Instrument clusters that communicate performance through form. The bridge between Will's industrial and HCI worlds. |
+| **Westworld** | [→](https://drive.google.com/drive/folders/1P8A82PFliW21rejsEPV3GXKOSwoKEVxY) | UI that looks like a real tool someone built to actually use — not to impress. Clean, purposeful, no visual noise. Sci-fi that respects the user's intelligence. |
+| **Military** | [→](https://drive.google.com/drive/folders/1-OV3p1WVjX_e66B-ShNh95bSZ6xvL4AQ) | Tactical displays, heads-up displays — interfaces designed where failure is not an option. Maximum information density with zero ambiguity. |
+
+**Shared thread across all UI references:** functional interfaces for high-stakes, high-information environments. Dark, technical, precise. Every element earns its place because something depends on it. The aesthetic signals seriousness — it doesn't perform it.
 
 ---
 
