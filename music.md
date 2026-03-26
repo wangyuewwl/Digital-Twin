@@ -14,6 +14,7 @@ These qualities are what make a piece of music matter to Will. Use them as calib
 - **Dark but elegant.** Serious atmosphere that never becomes oppressive. Density that holds clarity.
 - **Precision with expressiveness.** Technically exact but alive — like dancing on the edge of a knife.
 - **Architecture as drama.** The structure itself IS the emotional content.
+- **Epic scale.** Music that makes you feel like something enormous is happening — before you can intellectually process why. Grand, commanding, present.
 - **Timelessness.** Still overwhelming decades after creation — not because it's safe, but because it was right.
 
 ---
@@ -51,6 +52,15 @@ These qualities are what make a piece of music matter to Will. Use them as calib
 | Artist / Work | Link | Why It Matters |
 |--------------|------|---------------|
 | **La Campanella — Franz Liszt** | [YouTube](https://www.youtube.com/results?search_query=Liszt+La+Campanella) | Strong rhythm, light but super crisp. The speed variation and beat feel like *dancing on the edge of a knife* — sharp and clear, but full of movement. The precision never sacrifices expressiveness. A direct parallel to interfaces that are technically exact but feel alive. |
+
+---
+
+## Epic / Cinematic
+*Grand scale, high stakes, designed to make you feel like something enormous is at play. Music that commands presence.*
+
+| Artist / Work | Link | Why It Matters |
+|--------------|------|---------------|
+| **To the Infinity Castle (Muzan vs Hashira Theme) — Diego Mitre (2024)** | [YouTube](https://www.youtube.com/results?search_query=Diego+Mitre+To+the+Infinity+Castle+Muzan+Hashira) | Epic in the truest sense — massive orchestral scale, the feeling of forces clashing that are larger than any individual. The same quality as the best UI references: you feel the weight of what's at stake before you understand it intellectually. Design that commands respect the moment it appears. |
 
 ---
 
