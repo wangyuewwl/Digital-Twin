@@ -198,6 +198,7 @@ Calibration points for visual and aesthetic judgment. Not to copy — to underst
 **Shared thread:** premium material thinking, strong and consistent identity, no wasted elements, objects that earn attention and then disappear into use.
 
 > *Living section — Will continues adding references. Each addition refines the aesthetic calibration of this twin.*
+> **Extended inspiration:** [inspiration.md](https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/inspiration.md) (agent-readable) | [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730) (visual)
 
 ---
 
