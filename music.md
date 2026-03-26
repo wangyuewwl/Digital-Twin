@@ -19,7 +19,7 @@
 
 | Artist / Work | Link | Why It Matters |
 |--------------|------|---------------|
-| *(add entries)* | | |
+| **Toccata and Fugue in D minor, BWV 565 — Johann Sebastian Bach** | [YouTube](https://www.youtube.com/results?search_query=Bach+Toccata+Fugue+D+minor+BWV+565) | Sets a stage. Thick, serious, dark atmosphere — but elegant, never heavy-handed. The structure IS the drama. Discovered through Castlevania, which says something about where serious design and culture intersect. |
 
 ---
 
@@ -28,7 +28,8 @@
 
 | Artist / Work | Link | Why It Matters |
 |--------------|------|---------------|
-| *(add entries)* | | |
+| **Toccata and Fugue in D minor, BWV 565 — Johann Sebastian Bach** | [YouTube](https://www.youtube.com/results?search_query=Bach+Toccata+Fugue+D+minor+BWV+565) | Also lives here — the organ fills every corner of the space. Dark, serious, but with an elegance that prevents it from being oppressive. A masterclass in using density without losing clarity. |
+| **A Toccata Into Blood Soaked Darkness — Michiru Yamane (2005)** | [YouTube](https://www.youtube.com/results?search_query=Michiru+Yamane+Toccata+Into+Blood+Soaked+Darkness) | The Castlevania interpretation of Bach's DNA. Takes the same toccata structure into darker, more modern territory. Proof that timeless forms can be reinterpreted without losing their soul — relevant directly to how Will approaches design that is timeless but not frozen. |
 
 ---
 
@@ -37,7 +38,7 @@
 
 | Artist / Work | Link | Why It Matters |
 |--------------|------|---------------|
-| *(add entries)* | | |
+| **La Campanella — Franz Liszt** | [YouTube](https://www.youtube.com/results?search_query=Liszt+La+Campanella) | Strong rhythm, light but super crisp. The speed variation and beat feel like *dancing on the edge of a knife* — sharp and clear, but full of movement. The precision never sacrifices expressiveness. A direct parallel to interfaces that are technically exact but feel alive. |
 
 ---
 
@@ -55,7 +56,14 @@
 
 | Artist / Work | Link | Why It Matters |
 |--------------|------|---------------|
-| *(add entries)* | | |
+| **Toccata and Fugue in D minor, BWV 565 — Johann Sebastian Bach** | [YouTube](https://www.youtube.com/results?search_query=Bach+Toccata+Fugue+D+minor+BWV+565) | Written ~1703–1707. Still immediately recognizable, still emotionally overwhelming. The definition of timeless — not because it's safe, but because it was right. |
+
+---
+
+## Shared Thread
+*What these references have in common — the sonic equivalent of Will's design philosophy.*
+
+Dark but elegant. Precise but alive. Architecture that sets a stage without explaining itself. Maximum emotional impact through structural integrity, not decoration. The same qualities Will looks for in UI references — high-stakes, high-information, nothing wasted. These compositions feel like they were built for something that matters.
 
 ---
 
