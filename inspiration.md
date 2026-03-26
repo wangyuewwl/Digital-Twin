@@ -4,7 +4,14 @@
 > Read alongside `digital-twin.md`. Use entries here to calibrate visual, material, and experiential judgment.
 > For each entry: the *what* is the reference, the *why* is the calibration signal.
 
-**Visual files:** [Google Drive — Moodboard](https://drive.google.com/drive/folders/1pr15Dg0BsMJjYZQDVXIAtLFo9pGTZbIn) | **Annotated view:** [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)
+**Visual files (Google Drive):**
+- [📱 UI References](https://drive.google.com/drive/folders/1DzNROwPdxTQ_6mgbIe17G_QtkCZH-WWQ)
+- [🪑 Physical Products](https://drive.google.com/drive/folders/1m_Mq_ufxPb7V6gQDV9qk5T3XVacI3vhz)
+- [🏛 Architecture & Spaces](https://drive.google.com/drive/folders/1rM2j2i1khoOLTkoXkl0fmB35KlcQEJ-x)
+- [🎨 Visual & Aesthetic](https://drive.google.com/drive/folders/1cYs7fFAZiMLurRuHmMfWix7PRrcykCSO)
+- [📖 Articles & Writing](https://drive.google.com/drive/folders/1VQ1YBzNVA8s0TLxVncUAIeKA96hnGRZI)
+
+**Annotated view:** [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)
 
 ---
 
