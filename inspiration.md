@@ -4,7 +4,7 @@
 > Read alongside `digital-twin.md`. Use entries here to calibrate visual, material, and experiential judgment.
 > For each entry: the *what* is the reference, the *why* is the calibration signal.
 
-**Visual version:** [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)
+**Visual files:** [Google Drive — Moodboard](https://drive.google.com/drive/folders/1pr15Dg0BsMJjYZQDVXIAtLFo9pGTZbIn) | **Annotated view:** [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)
 
 ---
 
@@ -88,4 +88,4 @@
 ---
 
 *Living document — part of the Digital Twin ecosystem.*
-*Sync with: [digital-twin.md](https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/digital-twin.md) | [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)*
+*Sync with: [digital-twin.md](https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/digital-twin.md) | [Google Drive](https://drive.google.com/drive/folders/1qyQILLx28vTF9vbI--JhzhU9fcn-oiKN) | [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)*
