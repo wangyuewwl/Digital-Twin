@@ -61,6 +61,9 @@ These qualities are what make a piece of music matter to Will. Use them as calib
 | Artist / Work | Link | Why It Matters |
 |--------------|------|---------------|
 | **To the Infinity Castle (Muzan vs Hashira Theme) — Diego Mitre (2024)** | [YouTube](https://www.youtube.com/results?search_query=Diego+Mitre+To+the+Infinity+Castle+Muzan+Hashira) | Epic in the truest sense — massive orchestral scale, the feeling of forces clashing that are larger than any individual. The same quality as the best UI references: you feel the weight of what's at stake before you understand it intellectually. Design that commands respect the moment it appears. |
+| **Mobile Suit Gundam Unicorn OST (1–4) — Hiroyuki Sawano** | [YouTube](https://www.youtube.com/results?search_query=Hiroyuki+Sawano+Gundam+Unicorn+OST) | Sawano's signature: orchestral and electronic fused into something that feels both ancient and futuristic. Layered compositional architecture — each element adds to the whole without competing. The sonic equivalent of a system where every component is load-bearing. Matches the Gundam UI visual reference directly — same universe, same design grammar. |
+| **Mobile Suit Gundam SEED Original Soundtracks** | [YouTube](https://www.youtube.com/results?search_query=Gundam+SEED+Original+Soundtrack) | Emotionally wide range — from intimate tension to full orchestral battle. The music earns its scale. Nothing is inflated for effect; the epic moments hit harder because the quieter ones were real. |
+| **Mobile Suit Gundam SEED Destiny Original Soundtracks** | [YouTube](https://www.youtube.com/results?search_query=Gundam+SEED+Destiny+Original+Soundtrack) | Picks up SEED's vocabulary and pushes it darker, heavier. Destiny over fate — the weight of consequence in every track. The progression from SEED to Destiny mirrors how Will approaches iteration: same grammar, deeper intensity. |
 
 ---
 
