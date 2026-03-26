@@ -6,9 +6,21 @@
 
 ---
 
+## What Will Looks For in Music
+
+These qualities are what make a piece of music matter to Will. Use them as calibration when evaluating new references or when drawing sonic parallels to design work:
+
+- **Narrative without narration.** The best music tells a story or projects a series of images directly into the mind — without effort, without thinking. It bypasses explanation and lands as imagery. This is the sonic equivalent of Will's core design belief: the work should speak for itself.
+- **Dark but elegant.** Serious atmosphere that never becomes oppressive. Density that holds clarity.
+- **Precision with expressiveness.** Technically exact but alive — like dancing on the edge of a knife.
+- **Architecture as drama.** The structure itself IS the emotional content.
+- **Timelessness.** Still overwhelming decades after creation — not because it's safe, but because it was right.
+
+---
+
 ## How to Use This Document
 
-**For agents:** When working on motion, interaction flow, spatial composition, or emotional tone — cross-reference these references. Ask: does this direction share a rhythm or structure with any of these? Use the "why" column, not just the artist name.
+**For agents:** When working on motion, interaction flow, spatial composition, or emotional tone — cross-reference these references. Ask: does this direction share a rhythm, structure, or narrative quality with any of these? Use the "why" column, not just the artist name.
 
 **For Will:** Add anything — tracks, albums, artists, even specific moments in a song. The more specific the "why," the more useful it becomes. Spotify, Apple Music, YouTube links all work.
 
@@ -29,7 +41,7 @@
 | Artist / Work | Link | Why It Matters |
 |--------------|------|---------------|
 | **Toccata and Fugue in D minor, BWV 565 — Johann Sebastian Bach** | [YouTube](https://www.youtube.com/results?search_query=Bach+Toccata+Fugue+D+minor+BWV+565) | Also lives here — the organ fills every corner of the space. Dark, serious, but with an elegance that prevents it from being oppressive. A masterclass in using density without losing clarity. |
-| **A Toccata Into Blood Soaked Darkness — Michiru Yamane (2005)** | [YouTube](https://www.youtube.com/results?search_query=Michiru+Yamane+Toccata+Into+Blood+Soaked+Darkness) | The Castlevania interpretation of Bach's DNA. Takes the same toccata structure into darker, more modern territory. Proof that timeless forms can be reinterpreted without losing their soul — relevant directly to how Will approaches design that is timeless but not frozen. |
+| **A Toccata Into Blood Soaked Darkness — Michiru Yamane (2005)** | [YouTube](https://www.youtube.com/results?search_query=Michiru+Yamane+Toccata+Into+Blood+Soaked+Darkness) | The Castlevania interpretation of Bach's DNA — darker, more modern, but structurally faithful. The title alone tells a story. More importantly: this track *projects images directly into the mind without effort* — a series of scenes appears without thinking. That quality is the highest standard Will holds for both music and design: the work bypasses explanation and lands as experience. Timeless forms reinterpreted without losing their soul. |
 
 ---
 
