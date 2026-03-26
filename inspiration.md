@@ -5,10 +5,10 @@
 > For each entry: the *what* is the reference, the *why* is the calibration signal.
 
 **Visual files (Google Drive):**
-- [📱 UI References](https://drive.google.com/drive/folders/1DzNROwPdxTQ_6mgbIe17G_QtkCZH-WWQ)
-- [🪑 Physical Products](https://drive.google.com/drive/folders/1m_Mq_ufxPb7V6gQDV9qk5T3XVacI3vhz)
-- [🏛 Architecture & Spaces](https://drive.google.com/drive/folders/1rM2j2i1khoOLTkoXkl0fmB35KlcQEJ-x)
-- [🎨 Visual & Aesthetic](https://drive.google.com/drive/folders/1cYs7fFAZiMLurRuHmMfWix7PRrcykCSO)
+- [🎨 Visual & Aesthetic & UI](https://drive.google.com/drive/folders/1cYs7fFAZiMLurRuHmMfWix7PRrcykCSO)
+- [🪑 Physical Design](https://drive.google.com/drive/folders/1m_Mq_ufxPb7V6gQDV9qk5T3XVacI3vhz)
+- [🏛 Architecture](https://drive.google.com/drive/folders/1rM2j2i1khoOLTkoXkl0fmB35KlcQEJ-x)
+- [🎵 Music](https://drive.google.com/drive/folders/1-97QVXehrGvmmtDisosSJdjI_CoUfH9y)
 - [📖 Articles & Writing](https://drive.google.com/drive/folders/1VQ1YBzNVA8s0TLxVncUAIeKA96hnGRZI)
 
 **Annotated view:** [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)
