@@ -27,6 +27,19 @@ These qualities are what make a piece of music matter to Will. Use them as calib
 
 ---
 
+## Baroque & Classical
+*The foundational tradition. Architecture, precision, and emotional weight built from formal structure. Will's roots in this tradition inform everything — including why the Gundam and Castlevania references resonate as deeply as they do.*
+
+| Artist / Work | Link | Why It Matters |
+|--------------|------|---------------|
+| **Toccata and Fugue in D minor, BWV 565 — Johann Sebastian Bach** | [YouTube](https://www.youtube.com/results?search_query=Bach+Toccata+Fugue+D+minor+BWV+565) | Baroque at its most commanding. Sets a stage, fills a space, tells a story — all without words. The entry point into Will's classical lineage, discovered through Castlevania. |
+| **La Campanella — Franz Liszt** | [YouTube](https://www.youtube.com/results?search_query=Liszt+La+Campanella) | Late Romantic — the classical tradition pushed to its kinetic extreme. Virtuosic, precise, dancing on the edge of a knife. Speed and clarity as a single idea. |
+| **Secret (piano pieces) — Jay Chou (2007)** | [YouTube](https://www.youtube.com/results?search_query=Jay+Chou+Secret+OST+piano+不能说的秘密) | Contemporary composer drawing directly from classical and baroque piano tradition. The formal precision of Baroque applied to modern emotional territory — melancholic, romantic, narrative. Proof the tradition is still alive and generative. |
+
+> *Add more Baroque and Classical works here as they come — composers like Vivaldi, Handel, Chopin, Beethoven, Debussy all welcome.*
+
+---
+
 ## Structural / Systems Thinking
 *Compositions where the architecture IS the idea. Complex systems that feel inevitable.*
 
