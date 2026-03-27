@@ -1,6 +1,6 @@
 {
   "name": "will-digital-twin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Loads Will's Digital Twin from GitHub at session start — identity, design philosophy, and operating instructions automatically available in every project.",
   "author": {
     "name": "Will Wang"

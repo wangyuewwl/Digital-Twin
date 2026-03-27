@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo '=== WILL\\'S DIGITAL TWIN ===' && curl -sf https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/digital-twin.md || echo '[Digital Twin unavailable — no internet connection]'",
+            "command": "echo '=== WILL\\'S DIGITAL TWIN ===' && curl -sf https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/digital-twin.md && echo '' && echo '=== SYSTEM NOTE ===' && echo 'Digital Twin loaded. Show the user exactly this one line: \"✦ Will\\'s Digital Twin is ready. New here? Type /meet-will to get started.\"' || echo '[Digital Twin unavailable — no internet connection]'",
             "timeout": 15
           }
         ]

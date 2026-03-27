@@ -24,6 +24,7 @@ Digital Twin/
 │   ├── .claude-plugin/plugin.json    ← plugin manifest (name, version)
 │   ├── hooks/hooks.json              ← SessionStart hook (fetches digital-twin.md from GitHub)
 │   ├── commands/refresh-twin.md      ← /refresh-twin command (fetches all 3 files)
+│   ├── commands/meet-will.md         ← /meet-will command (first-time onboarding)
 │   └── README.md                     ← plugin documentation
 └── will-digital-twin-v{x.x.x}.plugin ← latest installable plugin (versioned)
 ```
@@ -84,6 +85,17 @@ Examples: adding a new command, changing the hook, modifying what gets fetched a
 A Monday 9am reminder is set up to prompt Will to review and update the Digital Twin.
 Task ID: `digital-twin-weekly-review`
 It asks Will one focused question to kick off the review.
+
+---
+
+## Plugin Commands
+
+| Command | Who it's for | What it does |
+|---------|-------------|--------------|
+| `/meet-will` | New users | Onboarding — what the plugin does and how to use it |
+| `/refresh-twin` | Anyone | Reloads all 3 Digital Twin files mid-session |
+
+At session start, the plugin silently loads `digital-twin.md` and shows one line: "✦ Will's Digital Twin is ready. New here? Type /meet-will to get started."
 
 ---
 
