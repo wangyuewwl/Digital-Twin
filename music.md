@@ -112,4 +112,4 @@ Dark but elegant. Precise but alive. Architecture that sets a stage without expl
 ---
 
 *Living document — part of the Digital Twin ecosystem.*
-*Sync with: [digital-twin.md](https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/digital-twin.md) | [inspiration.md](https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/inspiration.md)*
+*Sync with: [digital-twin.md](./digital-twin.md) | [inspiration.md](./inspiration.md)*
