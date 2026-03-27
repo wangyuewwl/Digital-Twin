@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '=== WILL\\'S DIGITAL TWIN ===' && curl -sf https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/digital-twin.md || echo '[Digital Twin unavailable — no internet connection]'",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}
