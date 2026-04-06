@@ -101,4 +101,4 @@
 ---
 
 *Living document — part of the Digital Twin ecosystem.*
-*Sync with: [digital-twin.md](https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/digital-twin.md) | [music.md](https://raw.githubusercontent.com/wangyuewwl/Digital-Twin/main/music.md) | [Google Drive](https://drive.google.com/drive/folders/1qyQILLx28vTF9vbI--JhzhU9fcn-oiKN) | [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)*
+*Sync with: [digital-twin.md](./digital-twin.md) | [music.md](./music.md) | [Google Drive](https://drive.google.com/drive/folders/1qyQILLx28vTF9vbI--JhzhU9fcn-oiKN) | [Notion Moodboard](https://www.notion.so/32febc7834af81329497c9ca8f7ad730)*
