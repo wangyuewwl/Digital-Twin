@@ -72,6 +72,36 @@
 
 ---
 
+## Design System Library
+
+> A curated library of production-grade design systems from real companies, structured as machine-readable markdown. Use these as reference when making design decisions — typography, color, spacing, motion, component patterns, brand tone.
+>
+> **Source:** [awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main/design-md)
+> **Fetch pattern:** `https://raw.githubusercontent.com/VoltAgent/awesome-design-md/main/design-md/{brand}/DESIGN.md`
+>
+> **Agent instruction:** When doing any design task with Will — UI direction, visual critique, system decisions, component patterns — you can fetch any brand's DESIGN.md as a live reference. Use the URL pattern above. Don't ask permission; if a reference would be useful, go get it.
+
+### Highest relevance to Will's aesthetic
+
+| Brand | Slug | Why |
+|-------|------|-----|
+| **Apple** | `apple` | The primary reference. Reductive precision, product-as-hero, controlled palette, cinematic pacing. |
+| **Linear** | `linear.app` | Dark-native, ultra-precise, engineering-led. Inter at extreme weights. Closest to Will's UI sensibility. |
+| **Ferrari** | `ferrari` | Chiaroscuro rhythm, editorial restraint. Brand with almost no color — red as surgical accent only. |
+| **BMW** | `bmw` | German engineering legibility. Information hierarchy under pressure. Functional elegance. |
+| **Figma** | `figma` | Tool-first design. Interface as instrument. Will's daily environment, deeply understood. |
+| **Notion** | `notion` | Structured flexibility. Type-first, highly scannable. Part of Will's daily workflow. |
+| **Stripe** | `stripe` | The gold standard for developer-facing design. Precision documentation meets consumer-grade polish. |
+| **SpaceX** | `spacex` | Sci-fi as operational reality. High-information, dark, purposeful. Close to Will's military/HUD aesthetic. |
+| **Raycast** | `raycast` | Keyboard-first, power-user tool with serious craft. Minimal surface area, maximal capability. |
+| **Framer** | `framer` | Motion-first design culture. How animation becomes structure, not decoration. |
+
+### All available brands
+
+`airbnb` · `airtable` · `apple` · `bmw` · `cal` · `claude` · `clay` · `clickhouse` · `cohere` · `coinbase` · `composio` · `cursor` · `elevenlabs` · `expo` · `ferrari` · `figma` · `framer` · `hashicorp` · `ibm` · `intercom` · `kraken` · `lamborghini` · `linear.app` · `lovable` · `minimax` · `mintlify` · `miro` · `mistral.ai` · `mongodb` · `notion` · `nvidia` · `ollama` · `opencode.ai` · `pinterest` · `posthog` · `raycast` · `renault` · `replicate` · `resend` · `revolut` · `runwayml` · `sanity` · `sentry` · `spacex` · `spotify` · `stripe` · `supabase` · `superhuman` · `tesla` · `together.ai` · `uber` · `vercel` · `voltagent` · `warp` · `webflow` · `wise` · `x.ai` · `zapier`
+
+---
+
 ## Articles & Writing
 
 *Reading that has shaped thinking — on design, craft, systems, interdisciplinary ideas.*
